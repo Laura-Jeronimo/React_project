@@ -1,0 +1,19 @@
+.button{
+    background-color: #222;
+    color: #fff;
+    padding: 1em 1.5em;
+    transition: .5s;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    font-size: 1em;
+}
+
+.button:hover{
+    color: #ffbb33
+}
+
+.center {
+    text-align: center;
+    align-items: center;
+}
